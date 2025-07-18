@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nimrat6860/TextUtils/static/css/main.dc4d6ff2.css",
-    "main.js": "/nimrat6860/TextUtils/static/js/main.84937936.js",
-    "static/js/453.02b6ed6f.chunk.js": "/nimrat6860/TextUtils/static/js/453.02b6ed6f.chunk.js",
-    "index.html": "/nimrat6860/TextUtils/index.html",
-    "main.dc4d6ff2.css.map": "/nimrat6860/TextUtils/static/css/main.dc4d6ff2.css.map",
-    "main.84937936.js.map": "/nimrat6860/TextUtils/static/js/main.84937936.js.map",
-    "453.02b6ed6f.chunk.js.map": "/nimrat6860/TextUtils/static/js/453.02b6ed6f.chunk.js.map"
+    "main.css": "/TextUtils/static/css/main.dc4d6ff2.css",
+    "main.js": "/TextUtils/static/js/main.aa74ee10.js",
+    "static/js/453.02b6ed6f.chunk.js": "/TextUtils/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/TextUtils/index.html",
+    "main.dc4d6ff2.css.map": "/TextUtils/static/css/main.dc4d6ff2.css.map",
+    "main.aa74ee10.js.map": "/TextUtils/static/js/main.aa74ee10.js.map",
+    "453.02b6ed6f.chunk.js.map": "/TextUtils/static/js/453.02b6ed6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.84937936.js"
+    "static/js/main.aa74ee10.js"
   ]
 }
